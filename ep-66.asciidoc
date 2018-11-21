@@ -1,0 +1,22 @@
+== Show notes for Episode 66
+
+Interview with Sergio del Amo, creator of the http://groovycalamari.com/[Groovy Calamari] newsletter and 
+https://overcast.fm/itunes1441904884/groovy-calamari[Groovy Calamari podcast], and organizer of 
+https://www.greachconf.com/[Greach 2019].
+
+Member of the OCI #grailsfw team and #micronautfw
+
+* https://twitter.com/sdelamo?lang=en[Twitter feed for @sdelamo]
+* https://micronaut.io/[Micronaut]
+* https://guides.micronaut.io[Micronaut Guides]
+* https://guides.grails.org[Grails Guides]
+
+Greach conference 2019:
+
+* https://www.greachconf.com/[Home page]
+* https://www.greachconf.com/cfp/[Call for papers] which ends Jan 14
+
+Additional links:
+
+* https://gradle.org/training/whats-new-in-gradle-5/?time_value=20181129[What's New in Gradle 5.0 webinar]
+
