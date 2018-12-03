@@ -32,3 +32,18 @@ NOTE: Gradle 5.0 requires Java 8+
 * https://cfp.gr8conf.org/login/auth[Gr8conf EU], May 27 - 29, 2019. CFP deadline 2019-01-31
 * https://micronautsummit.com/[Micronaut Summit], April 15 - 17, 2019
 * https://www.greachconf.com/[Greach 2019], March 28 - 30, 2019. CFP deadline 2019-01-14
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: @groovypodcast
+* Home page: http://nofluffjuststuff.com/groovypodcast
+* Google+: https://plus.google.com/112706418002827266912/posts
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com
