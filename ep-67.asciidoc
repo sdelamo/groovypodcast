@@ -17,6 +17,8 @@ NOTE: Gradle 5.0 requires Java 8+
 
 * https://blogs.apache.org/groovy/entry/groovy-2-5-4-released[Groovy 2.5.4 released]. Maintenance release with many bug fixes and improvements. See https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318123&version=12344270[release notes] for details.
 
+* https://github.com/grails/grails-core/releases/tag/v3.3.9[Grails 3.3.9 released] hours after the podcast aired. Sigh.
+
 == Blogs and other posts
 
 * https://medium.com/@musketyr/groovy-dsl-builders-1-the-concept-2d5a97fa0a51[Groovy DSL Builders #1], first of a series of 10 (!) blog posts by Vladimir Orany. All posts are now available, and linked at the end of the first one.
@@ -26,6 +28,7 @@ NOTE: Gradle 5.0 requires Java 8+
     ** JUnit 5 support in Groovy and `groovyConsole`
     ** `:grab` in `groovysh`
 * Nov 19: Groovy 3 years as a top-level Apache project
+* https://twitter.com/graemerocher/status/1064873138272567297[Tweet from Graeme Rocher] mentioning how the infrastructure inside Grails will be updated with components from Micronaut.
 
 == Conferences
 
