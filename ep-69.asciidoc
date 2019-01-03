@@ -1,0 +1,61 @@
+== Show notes for Episode 69 (S03E01)
+
+Thursday, January 3, 2019
+
+with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and Baruch Sadogursky https://twitter.com/jbaruch[@jbaruch] in Sunnyvale, CA.
+
+=== Releases
+
+* https://docs.gradle.org/5.1/release-notes.html[Gradle 5.1] is now available.
+    ** _Repository to dependency matching_: for a given repository, you can specify what it may or may not contain. Uses a `content` block with `includeGroup` or `excludeGroupByRegex`. Can also use a `mavenContent` block with `releasesOnly()` or `snapshotsOnly()` methods.
+    ** _Filter tasks with `--group`_: instead of listing all available tasks, you can use the flag to see only tasks belonging to a particular group
+    ** _Target architectures for C++ plugins_: use the `targetMachines` property to target multiple architectures when building C++ projects
+    ** _Kotlin DSL 1.1_
+    ** _APIs for faster build configuration_
+    
+* Groovy:
+    ** https://blogs.apache.org/groovy/entry/groovy-2-5-5-released[Groovy 2.5.5 released]. Maintenance release with many bug fixes and improvements. See https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318123&version=12344435[release notes] for details.
+
+    ** https://blogs.apache.org/groovy/entry/groovy-3-0-0-alpha[Groovy 3.0.0-alpha-4 released] Expected to be the last "alpha" release of Groovy 3.0.0. See http://groovy-lang.org/changelogs/changelog-3.0.0-alpha-4.html[release notes] for details.
+
+    ** https://blogs.apache.org/groovy/entry/groovy-2-4-16-released[Groovy 2.4.16 released]. Maintenance release for the 2.4.* branch.
+
+* https://groups.google.com/forum/#!msg/geb-user/s2KJzQz_MpQ/QMhNOtbmDQAJ[Geb 2.3 released] Improvements and fixes, plus a large number of modules for previously unsupported HTML 5 inputs.
+
+* https://github.com/grails/grails-core/releases[Grails 3.3.9 released]
+
+== Blogs and other posts
+
+* Gr8Conf 2018 released a video a day during December 2018. Some examples:
+    ** https://t.co/09E7l9uoUF[Groovy update: What's new in Groovy 2.5+] by Paul King
+    ** https://t.co/9ikGdfcs7h[Reactive services with Micronaut] by Alvaro Sanchez-Mariscal
+    ** https://t.co/kMTiue2Ods[The Internet of Things and capturing time series data] by Marco Pas
+    ** https://t.co/L4TL8U5Xuh[Why use #groovylang? How to convince your boss and others] by Jenn Strater
+    ** https://t.co/EkIu1ga1Zy[Room with a Vue -- Building Grails apps with Vue.js] by Zach Klein
+    ** https://www.youtube.com/playlist?list=PLwxhnQ2Qv3xsshZAcQNgfrp94PNcrNvM4[Complete playlist] for 43 videos
+
+* https://gradle.com/blog/maven/[Apache Maven support coming to Gradle Enterprise] Blog post from Gradle, Inc.
+
+* https://twitter.com/aalmiray/status/1080649273946066947[Andres Almiray joins Gradle, Inc] "I'm ecstatic to say that I've joined @gradle's Developer Experience team as a Developer Advocate! This year is off to a good start"
+
+== Conferences
+
+* https://devnexus.com/2gm-home[DevNexus 2GM], March 6 - 8, 2019.
+* https://cfp.gr8conf.org/login/auth[Gr8conf EU], May 27 - 29, 2019. CFP deadline 2019-01-31
+* https://micronautsummit.com/[Micronaut Summit], April 15 - 17, 2019
+* https://www.greachconf.com/[Greach 2019], March 28 - 30, 2019. CFP deadline 2019-01-14
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: @groovypodcast
+* Home page: http://nofluffjuststuff.com/groovypodcast
+* Google+: https://plus.google.com/112706418002827266912/posts
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com
