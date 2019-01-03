@@ -38,6 +38,8 @@ with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and
 
 * https://twitter.com/aalmiray/status/1080649273946066947[Andres Almiray joins Gradle, Inc] "I'm ecstatic to say that I've joined @gradle's Developer Experience team as a Developer Advocate! This year is off to a good start"
 
+* https://tinyletter.com/KousenIT[Tales from the jar side] Newsletter from Kousen IT, Inc.
+
 == Conferences
 
 * https://devnexus.com/2gm-home[DevNexus 2GM], March 6 - 8, 2019.
