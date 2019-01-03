@@ -8,8 +8,8 @@ with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and
 
 * https://docs.gradle.org/5.1/release-notes.html[Gradle 5.1] is now available.
     ** _Repository to dependency matching_: for a given repository, you can specify what it may or may not contain. Uses a `content` block with `includeGroup` or `excludeGroupByRegex`. Can also use a `mavenContent` block with `releasesOnly()` or `snapshotsOnly()` methods.
-    ** _Filter tasks with `--group`_: instead of listing all available tasks, you can use the flag to see only tasks belonging to a particular group
-    ** _Target architectures for C++ plugins_: use the `targetMachines` property to target multiple architectures when building C++ projects
+    ** _Filter tasks with --group_ : instead of listing all available tasks, you can use the flag to see only tasks belonging to a particular group
+    ** _Target architectures for Cpp plugins_ : use the `targetMachines` property to target multiple architectures when building Cpp projects
     ** _Kotlin DSL 1.1_
     ** _APIs for faster build configuration_
     
