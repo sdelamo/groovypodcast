@@ -31,6 +31,8 @@ Tuesday, February 12, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkou
 
 * https://tinyletter.com/KousenIT[Tales from the jar side] Newsletter from Kousen IT, Inc.
 
+* https://jaxenter.com/tiobe-index-february-2019-groovy-155403.html[Groovy slides right back into the TIOBE top 20] Very colorful and interesting take on Groovy's popularity comeback.
+
 == Conferences
 
 * https://devnexus.com/2gm-home[DevNexus 2GM], March 6 - 8, 2019.
