@@ -1,0 +1,53 @@
+== Show notes for Episode 69 (S03E01)
+
+Tuesday, February 12, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and Jenn Strater https://twitter.com/codejennerator[@codeJENNerator] in Berlin, Germany.
+
+=== Releases
+
+* https://docs.gradle.org/5.2.1/release-notes.html[Gradle 5.2.1] is now available, building on the Gradle 5.2 release the week before
+    ** _Java Platform Plugin_: (From the release notes) "Like Maven BOMs, platforms can be used to define a set of versions for dependencies that are known to work together. These versions can be published and consumed elsewhere as dependency recommendations."
+    ** _New C++ plugins_ : Please uses these over existing software model plugins
+    ** _Build init plugin can now generate C++ sample projects_ : Both `cpp-application` and `cpp-library` options are now available
+    ** _Support for Windows native toolchains_: Both `cygwin64` and `mingw64` now supported
+    ** _Improved support for testing applications on Windows_
+    
+* https://blogs.apache.org/groovy/entry/groovy-2-5-6-released[Groovy 2.5.6 released]. Maintenance release with many bug fixes and improvements. See http://groovy-lang.org/changelogs/changelog-2.5.6.html[change log] for details. Also, "Over 20 fixes for traits, static compilation (in particular class cast errors) and various regressions! Thanks to all contributors!" from https://twitter.com/paulk_asert/status/1092422248152018944[tbe tweet by Paul King @paulk_asert]
+
+* https://objectcomputing.com/news/2019/01/29/micronaut-104-released-improved-modularity[Micronaut 1.0.4 released] with improved modularity. "Micronaut now has a much smaller core and various subproject that will evolve and improvement independently. The increased modularization will allow the Micronaut team to iterate faster and do more frequent releases of the core of Micronaut." (from the announcement)
+
+* http://codenarc.sourceforge.net/[Codenarc 1.3 released]
+
+== Blogs and other posts
+
+* https://twitter.com/ApacheGroovy/status/1090915080731009024[Groovy download statistics tweet] "Apache Groovy was downloaded 30 million times during the last quarter of 2018. And crossed the 100 million downloads mark for the downloads of the whole year!"
+
+* https://www.datasciencecentral.com/profiles/blogs/best-dynamically-typed-programming-languages-for-data-analysis[Groovy named best language for data analysis]
+
+* http://glaforge.appspot.com/article/machine-learning-apis-with-apache-groovy[Machine learning APIs with Groovy] blog post by Guillaume Laforge; presentation from Gr8Conf EU last year. Uses Groovy to invoke the Vision API and the Natural Language API from Google.
+
+* https://e.printstacktrace.blog/graalvm-groovy-grape-creating-native-image-of-standalone-script/[Graal image with Groovy and Grape] blog post by Szymon Stepniak
+
+* https://twitter.com/GR8ConfUS/status/1085561361520824322[No Gr8conf US this year] (link is to tweet) Sad news.
+
+* https://tinyletter.com/KousenIT[Tales from the jar side] Newsletter from Kousen IT, Inc.
+
+== Conferences
+
+* https://devnexus.com/2gm-home[DevNexus 2GM], March 6 - 8, 2019.
+* https://cfp.gr8conf.org/login/auth[Gr8conf EU], May 27 - 29, 2019. CFP deadline 2019-01-31
+* https://www.greachconf.com/[Greach 2019], March 28 - 30, 2019. CFP deadline 2019-01-14
+* https://micronautsummit.com/[Micronaut Summit] moved to fall. Sign up for news at link provided
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com
