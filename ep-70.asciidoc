@@ -6,7 +6,7 @@ Tuesday, February 12, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkou
 
 * https://docs.gradle.org/5.2.1/release-notes.html[Gradle 5.2.1] is now available, building on the Gradle 5.2 release the week before
     ** _Java Platform Plugin_: (From the release notes) "Like Maven BOMs, platforms can be used to define a set of versions for dependencies that are known to work together. These versions can be published and consumed elsewhere as dependency recommendations."
-    ** _New C++ plugins_ : Please uses these over existing software model plugins
+    ** _New C++ plugins_ : Please use these over existing software model plugins
     ** _Build init plugin can now generate C++ sample projects_ : Both `cpp-application` and `cpp-library` options are now available
     ** _Support for Windows native toolchains_: Both `cygwin64` and `mingw64` now supported
     ** _Improved support for testing applications on Windows_
