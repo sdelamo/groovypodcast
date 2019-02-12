@@ -15,6 +15,12 @@ Tuesday, February 12, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkou
 
 * https://objectcomputing.com/news/2019/01/29/micronaut-104-released-improved-modularity[Micronaut 1.0.4 released] with improved modularity. "Micronaut now has a much smaller core and various subproject that will evolve and improvement independently. The increased modularization will allow the Micronaut team to iterate faster and do more frequent releases of the core of Micronaut." (from the announcement)
 
+* https://hangouts.google.com/hangouts/_/apq4xglrjfaapleosk7bbfxy4ue[Micronaut 1.1 Milestone 1 released] 
+  ** Support for GRPC
+  ** Support for AWS API Gateway and GraalVM Custom Runtime
+  ** AWS Native File Watch and Fast Server Restart
+  ** New Test Templates for Micronaut Test
+
 * http://codenarc.sourceforge.net/[Codenarc 1.3 released]
 
 == Blogs and other posts
