@@ -44,7 +44,7 @@ Tuesday, February 12, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkou
 == Conferences
 
 * https://devnexus.com/2gm-home[DevNexus 2GM], March 6 - 8, 2019.
-* https://cfp.gr8conf.org/login/auth[Gr8conf EU], May 27 - 29, 2019. CFP deadline 2019-01-31
+* https://cfp.gr8conf.org/login/auth[Gr8conf EU], May 27 - 29, 2019
 * https://www.greachconf.com/[Greach 2019], March 28 - 30, 2019
 * https://micronautsummit.com/[Micronaut Summit] moved to fall. Sign up for news at link provided
 
