@@ -33,6 +33,8 @@ Tuesday, February 12, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkou
 
 * https://jaxenter.com/tiobe-index-february-2019-groovy-155403.html[Groovy slides right back into the TIOBE top 20] Very colorful and interesting take on Groovy's popularity comeback.
 
+* https://virtualdogbert.github.io/enterprise-groovy-plugin/[Enterprise Groovy Plugin] Some useful presets for large Groovy projects. (still in RC)
+
 == Conferences
 
 * https://devnexus.com/2gm-home[DevNexus 2GM], March 6 - 8, 2019.
