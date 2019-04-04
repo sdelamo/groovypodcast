@@ -1,0 +1,29 @@
+== Show notes for Episode 72 (S03E04)
+
+Thursday, April 4, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and Jenn Strater https://twitter.com/codejennerator[@codeJENNerator] in Berlin, Germany.
+
+=== Releases
+
+* https://docs.gradle.org/5.3.1/release-notes.html[Gradle 5.3.1] is now available, building on the Gradle 5.3 release the week before
+    
+
+== Blogs and other posts
+
+
+== Conferences
+
+* https://cfp.gr8conf.org/login/auth[Gr8conf EU], May 27 - 29, 2019
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com
