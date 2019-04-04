@@ -2,12 +2,60 @@
 
 Thursday, April 4, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and Jenn Strater https://twitter.com/codejennerator[@codeJENNerator] in Berlin, Germany.
 
+== Blogs and other community news
+
+* Greach recap
+* Javaland
+* https://twitter.com/daniel_sun/status/1110786652148891648[Daniel Sun was recognized by Google for his contributions]. Congrats Daniel!
+* https://www.redbubble.com/people/comdev/works/34187235-apache-groovy[Groovy swag is available for purchase on RedBubble.]
+** Not really new, but saw it being promoted by Apache again.
+
 === Releases
 
-* https://docs.gradle.org/5.3.1/release-notes.html[Gradle 5.3.1] is now available, building on the Gradle 5.3 release the week before
-    
+==== Asciidoctor went 2.0!
 
-== Blogs and other posts
+==== Groovy
+none since 2.5.6 in February
+
+==== Grails
+
+4.0.0.M1/M2 released (news but let's not get too excited yet)
+
+==== Micronaut
+
+1.1.0.RC2 released (again news, but not officially out yet)
+
+==== Gradle
+
+* new Logo
+* Gradle Build Tool 5.3 and https://docs.gradle.org/5.3.1/release-notes.html[5.3.1] releases
+
+** Highlights:
+*** Feature variants
+*** Gradle module metadata 1.0
+*** .1 fixes some bugs for multi project builds
+
+* GE 2019.1
+** includes features that work for Apache Maven builds :tada:
+
+== What Jenn's been up to
+
+* small events mostly. some travel but more coming up:
+** NYC / Atlanta for CloudBees Days (maybe more)
+** Spring IO in Barcelona
+** Then GR8Conf :tada:
+
+
+== GR8Conf Updates
+* https://diversitytickets.org/en/events/418[Diversity Tickets]
+* Registration is Open. Still in EarlyBird. Or ask Jenn for a discount code ;)
+* Still looking for more sponsors
+* Discount code for listeners only (not available in the show notes)
+
+== Friends of Groovy
+* Getting started with organizing
+* Thanks to everyone who's contributed so far
+* Looking forward to our first submission: work for the Groovy Eclipse Plugin
 
 
 == Conferences
@@ -27,3 +75,4 @@ Thursday, April 4, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen
 ## Brought to you by
 * Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
 * Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com
+* sometimes Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
