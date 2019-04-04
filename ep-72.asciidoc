@@ -2,41 +2,39 @@
 
 Thursday, April 4, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT, and Jenn Strater https://twitter.com/codejennerator[@codeJENNerator] in Berlin, Germany.
 
+== Releases
+* https://github.com/groovy/groovy-eclipse/wiki/3.3.0-Release-Notes[Groovy Eclipse 3.3.0] Support for Groovy 3.0-alpha-4 and 2.5.6, as well as Eclipse 4.11 (2019-03).
+* https://github.com/groovy/GMavenPlus/releases/tag/1.6.3[GMavenPlus 1.6.3], a rewrite of GMaven, a Maven plugin for Groovy
+* https://github.com/asciidoctor/asciidoctor/releases/tag/v2.0.0[Asciidoctor 2.0.0] as a new major version
+* https://github.com/grails/grails-core/releases/tag/v4.0.0.M2[Grails 4.0.0 Milestone 2]
+* https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.1.0.RC2[Micronaut 1.1.0 RC2]
+* https://docs.gradle.org/5.3.1/release-notes.html[Gradle Build Tool 5.3]
+ ** Feature variants
+ ** Gradle module metadata 1.0
+ ** .1 fixes some bugs for multi project builds
+ ** new Logo
+* Also, Gradle Enterprise 2019.1 works with Maven builds
+
 == Blogs and other community news
 
 * Greach recap
 * Javaland
 * https://twitter.com/daniel_sun/status/1110786652148891648[Daniel Sun was recognized by Google for his contributions]. Congrats Daniel!
 * https://www.redbubble.com/people/comdev/works/34187235-apache-groovy[Groovy swag is available for purchase on RedBubble.]
-** Not really new, but saw it being promoted by Apache again.
 
-=== Releases
+* http://vladimir.orany.cz/groovy-dsl-workshop/[Groovy DSL Workshop notes] by Vladimír Orany (@musketyr), from Greach 2019
+* http://groovycalamari.com/issues/154[Groovy Calamari Issue 154] discusses Micronaut 1.1 RC1 and a lot about RabbitMQ and Hazelcast Cache Integration
+* https://e.printstacktrace.blog/groovy-regular-expressions-the-definitive-guide/[Groovy Regular Expressions - The Definitive Guide] with a syntax summary and performance guide
+* https://insights.dice.com/2019/03/20/groovy-enjoying-grooviest-rise-programming/[Groovy Enjoying the Grooviest Rise Among Programming Languages] article from Dice based on the Feb update of the TIOBE Index, where Groovy jumped from 49th to 19th place.
+* https://www.baeldung.com/groovy-io[Guide to I/O in Groovy] by Baeldung
+* https://www.baeldung.com/groovy-traits[Introduction to Traits in Groovy] by Baeldung
+* https://objectcomputing.com/resources/events/webinars/intro-grails-4[Introducing Grails 4: Upgrades and New Features] OCI webinar by James Kleeh, recorded 27 March
+* https://twitter.com/graemerocher/status/1105358512639614982[tweet about Micronaut presentation slides] by Graeme Rocher from the talks he gave at DevNexus
+ ** https://t.co/e71ZN2OIjV[Micronaut Deep Dive]
+ ** https://t.co/qcqs5RsaVw[Micronaut AOT]
+ ** https://t.co/8xySdjgKM8[Micronaut + Grails]
 
-==== Asciidoctor went 2.0!
-
-==== Groovy
-none since 2.5.6 in February
-
-==== Grails
-
-4.0.0.M1/M2 released (news but let's not get too excited yet)
-
-==== Micronaut
-
-1.1.0.RC2 released (again news, but not officially out yet)
-
-==== Gradle
-
-* new Logo
-* Gradle Build Tool 5.3 and https://docs.gradle.org/5.3.1/release-notes.html[5.3.1] releases
-
-** Highlights:
-*** Feature variants
-*** Gradle module metadata 1.0
-*** .1 fixes some bugs for multi project builds
-
-* GE 2019.1
-** includes features that work for Apache Maven builds :tada:
+* https://podcast.groovycalamari.com/index.html[Groovy Calamari Podcast] has a new home page
 
 == What Jenn's been up to
 
@@ -45,7 +43,6 @@ none since 2.5.6 in February
 ** Spring IO in Barcelona
 ** Then GR8Conf :tada:
 
-
 == GR8Conf Updates
 * https://diversitytickets.org/en/events/418[Diversity Tickets]
 * Registration is Open. Still in EarlyBird. Or ask Jenn for a discount code ;)
@@ -53,10 +50,10 @@ none since 2.5.6 in February
 * Discount code for listeners only (not available in the show notes)
 
 == Friends of Groovy
+* * https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
 * Getting started with organizing
 * Thanks to everyone who's contributed so far
 * Looking forward to our first submission: work for the Groovy Eclipse Plugin
-
 
 == Conferences
 
