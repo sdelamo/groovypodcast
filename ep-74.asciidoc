@@ -24,6 +24,7 @@ Thursday, June 3, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen]
  ** https://github.com/beckje01/gr8eu-2019-observability-workshop[Observability Workshop] by Jeff Beck
  ** https://grydeske.dk/Jbake-Groovy-Friends.pdf[JBake, Asciidoctor, Groovy and Friends] by Jacob Mikkelsen
  ** https://www.slideshare.net/nareshak/effective-java-with-groovy[Effective Java with Groovy] by Naresha K
+ ** https://speakerdeck.com/sdelamo/whats-new-with-grails-4[What's New With Grails 4] by Sergio Del Amo
 
 * https://www.baeldung.com/groovy-template-engines[Template Engines in Groovy] by baeldung
 * https://www.baeldung.com/groovy-pattern-matching[Pattern Matching in Strings in Groovy] by baeldung
