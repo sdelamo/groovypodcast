@@ -13,6 +13,8 @@ Monday, November 25, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkous
 * http://spreadsheet.dsl.builders/[Spreadsheet Builder 2.x] by Vladimír Orany 
 * https://github.com/groovy/groovy-eclipse/wiki/3.5.0-Release-Notes[Groovy Eclipse 3.5.0]
 
+* https://www.apress.com/us/book/9781484250570[Learning Groovy 3] book by Adam L. Davis, from Apress
+
 == Blogs and other community news
 
 * https://www.thoughtworks.com/radar/languages-and-frameworks?blipid=201904032[ThoughtWorks Tech Radar] moves Micronaut from Assess to Trial
@@ -29,6 +31,7 @@ Monday, November 25, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkous
 * https://objectcomputing.com/news/2019/10/07/micronaut-aop-awesome-flexibility-without-complexity[Micronaut AOP: Awesome Flexibility without the Complexity] blog post by Graeme Rocher
 * http://groovycalamari.com/issues/166[Groovy Calamari] Issue 166
 * https://www.baeldung.com/groovy-categories[Categories in Groovy]
+* https://www.baeldung.com/groovy-metaprogramming[Metaprogramming in Groovy]
 
 == Conferences
 
