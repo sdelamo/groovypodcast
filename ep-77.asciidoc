@@ -1,0 +1,55 @@
+== Show notes for Episode 77 (S04E03)
+
+Monday, November 25, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT and Baruch Sadogursky https://twitter.com/jbaruch[@jbaruch] in Sunndvale, CA.
+
+== Releases
+* https://groovy.apache.org/download.html[Groovy 3.0.0-rc-1]
+* https://github.com/grails/grails-core/releases/tag/v4.0.1[Grails 4.0.1]
+* https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.1.4[Micronaut 1.1.4]
+* https://docs.gradle.org/6.0.1/release-notes.html[Gradle 6.0.1]
+* https://github.com/groovy/GMavenPlus/releases/tag/1.8.0[GMavenPlus]
+* https://github.com/CodeNarc/CodeNarc/blob/master/CHANGELOG.md[CodeNarc 1.5]
+* https://objectcomputing.com/news/2019/11/21/micronaut-13-milestone-1-released[Micronaut 1.3 M1] See https://docs.micronaut.io/1.3.0.M1/guide/index.html#whatsNew[release notes] for details
+* http://spreadsheet.dsl.builders/[Spreadsheet Builder 2.x] by Vladimír Orany 
+* https://github.com/groovy/groovy-eclipse/wiki/3.5.0-Release-Notes[Groovy Eclipse 3.5.0]
+
+== Blogs and other community news
+
+* https://www.thoughtworks.com/radar/languages-and-frameworks?blipid=201904032[ThoughtWorks Tech Radar] moves Micronaut from Assess to Trial
+* https://developer.okta.com/blog/2019/08/21/make-java-tests-groovy[Make Java Tests Groovy With Hamcrest] blog post by Brian Demers (Okta)
+* https://developer.okta.com/blog/2019/09/03/gradle-tutorial[Get Groovy with Gradle] blog post by Andrew Hughes (Okta)
+* https://fossbytes.com/java-popular-programming-language-google-go-rising-fast/[Most Popular Programming Languages] "Java is the most popular programming language, Go and Groovy are the biggest winners"
+* https://e.printstacktrace.blog/quicksort-in-groovy-can-it-be-as-fast-as-implemented-in-java/[Quicksort in Groovy], article by Szymon Stepniak
+* https://e.printstacktrace.blog/graalvm-and-groovy-how-to-start/[GraalVM and Groovy - how to start?] article by Szymon Stepniak, updated to Graal 19.2.1 and Groovy 2.5.8
+* https://e.printstacktrace.blog/groovy-trampoline-closure-a-step-into-recursive-closures/[Groovy Trampoline Closure] another post by Szymon Stepniak
+* https://guides.grails.org/grails-as-docker-container/guide/index.html[Grails as a Docker Container] updated to Grails 4
+* https://guides.grails.org/rest-hibernate/guide/index.html[Building a REST application with GORM and Hibernate 5] upgraded to Grails 4
+* http://www.defgroovy.com/2019/11/groovy-in-enterprise-in-2019.html[Groovy in the Enterprise in 2019] by Scott Hickey
+* https://objectcomputing.com/products/micronaut/resources/micronaut-and-aws[Combining Micronaut and AWS] webinar by Sergio del Amo was on Nov 25
+* https://objectcomputing.com/news/2019/10/07/micronaut-aop-awesome-flexibility-without-complexity[Micronaut AOP: Awesome Flexibility without the Complexity] blog post by Graeme Rocher
+* http://groovycalamari.com/issues/166[Groovy Calamari] Issue 166
+* https://www.baeldung.com/groovy-categories[Categories in Groovy]
+
+== Conferences
+
+* https://www.greachconf.com/[Greach 2020] 26 - 28 March 2020. https://greachconf.com/cfp/index.html[Call for papers] ends January 10.
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://tinyletter.com/KousenIT
+* sometimes Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
