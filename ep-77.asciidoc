@@ -2,6 +2,9 @@
 
 Monday, November 25, 2019 with Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT and Baruch Sadogursky https://twitter.com/jbaruch[@jbaruch] in Sunndvale, CA.
 
+https://www.youtube.com/watch?v=nfIITlMsjaQ[YouTube video]
+https://groovypodcast.podbean.com/e/groovy-podcast-ep-77-s04e03-newscast-for-november-25th-2019/[Podbean audio]
+
 == Releases
 * https://groovy.apache.org/download.html[Groovy 3.0.0-rc-1]
 * https://github.com/grails/grails-core/releases/tag/v4.0.1[Grails 4.0.1]
