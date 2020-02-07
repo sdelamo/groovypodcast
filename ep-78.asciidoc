@@ -1,0 +1,58 @@
+== Show notes for Episode 77 (S04E03)
+
+It's Friday, February 7, 2020, with your hosts Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT and Baruch Sadogursky https://twitter.com/jbaruch[@jbaruch] in Sunndvale, CA.
+
+As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+_Happy Birthday, Grails!_ Version 1.0 released on 5 Feb 2008.
+
+* https://objectcomputing.com/news/2020/02/04/micronaut-13-and-micronaut-data-10-ga-released[Micronaut 1.3] and Micronaut Data 1.0 GA
+* https://ratpack.io/versions/1.7.6[Ratpack 1.7.6]
+* https://groovy.apache.org/download.html[Groovy 2.5.9 and Groovy 2.4.18], link is to central download page
+* https://bintray.com/groovy/maven/groovy/3.0.0-rc-2[Groovy 3.0.0-rc-2]
+* http://spockframework.org/spock/docs/2.0-M1/all_in_one.html#_2_0_m1_31_12_2019[Spock Framework 2.0-M1]
+* https://github.com/groovy/groovy-eclipse/wiki/3.6.0-Release-Notes[Groovy Eclipse 3.6.0]
+
+
+== Blogs and other community news
+
+* https://gitlab.com/snippets/1937153[Groovy pbcopy] from Edgar Rios Navarro
+* https://hub.docker.com/r/manorrock/groovy[Groovy 2.5.9 docker image] by Manfred Riem
+* https://www.youtube.com/watch?v=KkL2ZMmNY3I[Build an HTTP application in a single Groovy file] using Ratpack. YouTube video by Szymon Stepniak
+* https://www.youtube.com/watch?v=BRw7e1QIOmA[Groovy Regular Expressions], another YouTube video by Szymon Stepniak
+* https://github.com/confluentinc/examples/tree/latest/clients/cloud/groovy[Groovy example Confluent cloud client]
+* https://www.infoq.com/articles/groovy-3-new-features-java/[Groovy 3.0 Adds New Java-Like Features], article at InfoQ by Deepak Vohra
+* https://medium.com/97-things/make-your-java-groovier-83384687dd54[Make Your Java Groovier], blog post by Ken Kousen, part of the "97 Things" series
+* https://mrhaki.blogspot.com/2020/01/groovy-goodness-transform-elements.html[Groovy Goodness: Transform Elements While Flattening], blog post by Mr. Haki
+* https://stackoverflow.com/questions/59423991/groovy-as-keyword-for-map-class-binding?stw=2[Groovy AS keyword for Map > Class binding], Stack Overflow Q&A by Szymon Stepniak
+* https://e.printstacktrace.blog/groovy-string-methods-that-will-make-your-life-groovier/[Three Groovy String methods that will make your life Groovier!], blog post by Szymon Stepniak
+* https://twitter.com/wololock/status/1207999015910072320[Stack Overflow #Groovylang badge awards by year], tweet by Szymon Stepniak
+
+
+== Conferences
+
+* https://www.greachconf.com/[Greach 2020] 26 - 28 March 2020, Madrid, Spain.
+* https://gr8conf.eu/[GR8Conf & JDK IO], 2 - 4 June 2020, Copenhagen, Denmark. https://cfp.gr8conf.org/login/auth[Call for papers] ends Feb 15.
+* https://www.devdotnext.com/[dev.next], 24 - 27 June 2020, Broomfield, CO.
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://tinyletter.com/KousenIT
+* sometimes Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
