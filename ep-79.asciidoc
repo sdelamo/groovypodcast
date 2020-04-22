@@ -1,0 +1,68 @@
+== Show notes for Episode 79 (S04E05)
+
+It's Wednesday, April 22, 2020, with your hosts Ken Kousen https://twitter.com/kenkousen[@kenkousen] in Marborough, CT and Baruch Sadogursky https://twitter.com/jbaruch[@jbaruch] in Sunnyvale, CA, along with special guest Szymon Stepniak https://twitter.com/wololock[@wololock] in Toruń, Poland.
+
+As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* Groovy 3.0.3 and 2.5.11 released (Apr 10). https://groovy.apache.org/download.html[downloads page]
+* Grails 4.0.3. https://github.com/grails/grails-core/releases/tag/v4.0.3[tag page for release]
+* Gradle 6.3. https://gradle.org/install/[installation page]
+* Spock Reports extension v1.71. https://github.com/renatoathaydes/spock-reports[GitHub repo]
+* Mirconaut 2.0M1 released https://objectcomputing.com/news/2020/03/20/micronaut-20-milestone-1-released[Object Computing announcement]
+* GMavenPlus 1.9.0 https://github.com/groovy/GMavenPlus/releases/tag/1.9.0[release page at GitHub]
+* Groovy Eclipse v3.7.0 https://github.com/groovy/groovy-eclipse/releases/tag/v3.7.0[release page at GitHub]
+
+== Blogs and other community news
+
+* https://medium.com/wizpanda/change-one-line-to-improve-the-performance-of-your-grails-app-drastically-861dbfc77291[Change one line to improve the performance of your Grails app drastically] blog post by Shashank Agrawal
+* https://blog.solidsoft.pl/2020/04/15/spock-vs-junit-5-the-ultimate-feature-comparison/[Spock vs JUnit 5 - the ultimate feature comparison] blog post by Marcin Zajaczkowski
+* https://devskiller.com/screen-groovy-developers/[How to screen Groovy developer skills] article by Olga Maciaszek-Sharma
+* https://dev.to/erichelgeson/deploying-grails-4-to-heroku-1h8g[Deploying Grails 4 to Heroku] blog post by Eric Helgeson
+* https://www.baeldung.com/gradle-6-features[What's New in Gradle 6.0]
+* https://www.youtube.com/watch?v=i9pNYW1Pg9A[Groovy DSL Quickstart] YouTube video by Szymon Stepniak
+* Blog posts by Mr. Haki
+ ** https://blog.jdriven.com/2020/04/java-joy-using-named-capturing-groups-in-regular-expressions/[Java Joy: Using Named Capturing Groups in Regular Expressions] blog post celebrating Mr. Haki's 500th blog post
+ ** https://mrhaki.blogspot.com/2020/03/groovy-goodness-check-object-instances.html[Check Object Instances are the same with the === operator] blog post by Mr. Haki
+ ** https://mrhaki.blogspot.com/2020/02/groovy-goodness-elvis-assignment.html[The Elvis assignment operator]
+ ** https://mrhaki.blogspot.com/2020/03/groovy-goodness-safe-index-based-access.html[Save index based access for lists, arrays, and maps]
+ ** https://mrhaki.blogspot.com/2020/03/groovy-goodness-using-instanceof.html[Using !instanceof operator]
+ ** https://mrhaki.blogspot.com/2020/02/groovy-goodness-check-item-is-not-in.html[Check item is not in a collection with !in]
+ ** https://mrhaki.blogspot.com/2020/02/groovy-goodness-shuffle-list-or-array.html[Shuffle list or array]
+ ** https://blog.jdriven.com/2020/03/groovy-goodness-taking-or-dropping-number-of-characters-from-a-string/[Taking or dropping a number of characters from a string]
+
+* GORM milestone releases with Groovy 3 support [https://twitter.com/grailsframework/status/1252719156329357312](tweet by Grails Framework)
+* https://adtmag.com/articles/2020/02/25/apache-groovy-gets-new-parser.aspx?m=1[Apache's Groovy Gets a New Parser] article by John K. Waters in ADTMag
+* https://objectcomputing.com/news/2020/04/16/grails-and-micronaut-product-teams-announce-expansion-leader[Grails and Micronaut product teams announce expansion of leadership]
+* https://medium.com/@ruuben/managing-jwt-auth-with-micronaut-v2-part-3-5fd265a170b[Managing JWT Auth with Micronaut v2 (Part 3)] Third part of a trilogy of posts on Micronaut v2
+* https://blog.jetbrains.com/idea/2020/04/5-reasons-youll-%E2%9D%A4%EF%B8%8Fusing-micronaut-and-intellij-idea-to-boost-your-productivity/[5 Reasons you'll love using micronaut and IntelliJ IDEA to boost your productivity] guest blog post by Iván López
+* https://objectcomputing.com/news/2020/04/07/micronaut-vs-quarkus-vs-spring-boot-performance-jdk-14[Micronaut vs Quarkus vs Spring Boot performance on JDK 14] blog post by Graeme Rocher
+* http://glaforge.appspot.com/article/start-the-fun-with-java-14-and-micronaut-inside-serverless-containers-on-cloud-run[Start the fun with Java 14 and Micronaut inside servless containers on Cloud Run] blog post by Guillaume Laforge
+
+* https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA[GR8Conf YouTube channel] publishing videos from GR8Conf 2019
+
+== Conferences
+
+* Who knows any more?
+* https://nofluffjuststuff.com/virtual-workshops/151/groovy_for_java_developers[Groovy for Java Developers] virtual workshop by Ken Kousen hosted by NFJS
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://tinyletter.com/KousenIT
+* sometimes Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
