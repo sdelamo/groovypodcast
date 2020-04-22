@@ -64,5 +64,5 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 
 ## Brought to you by
 * Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
-* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[my newsletter]
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
 * sometimes Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
