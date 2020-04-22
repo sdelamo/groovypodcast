@@ -10,7 +10,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * Grails 4.0.3. https://github.com/grails/grails-core/releases/tag/v4.0.3[tag page for release]
 * Gradle 6.3. https://gradle.org/install/[installation page]
 * Spock Reports extension v1.71. https://github.com/renatoathaydes/spock-reports[GitHub repo]
-* Mirconaut 2.0M1 released https://objectcomputing.com/news/2020/03/20/micronaut-20-milestone-1-released[Object Computing announcement]
+* Micronaut 2.0M1 released https://objectcomputing.com/news/2020/03/20/micronaut-20-milestone-1-released[Object Computing announcement]
 * GMavenPlus 1.9.0 https://github.com/groovy/GMavenPlus/releases/tag/1.9.0[release page at GitHub]
 * Groovy Eclipse v3.7.0 https://github.com/groovy/groovy-eclipse/releases/tag/v3.7.0[release page at GitHub]
 
