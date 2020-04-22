@@ -32,7 +32,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
  ** https://mrhaki.blogspot.com/2020/02/groovy-goodness-shuffle-list-or-array.html[Shuffle list or array]
  ** https://blog.jdriven.com/2020/03/groovy-goodness-taking-or-dropping-number-of-characters-from-a-string/[Taking or dropping a number of characters from a string]
 
-* GORM milestone releases with Groovy 3 support [https://twitter.com/grailsframework/status/1252719156329357312](tweet by Grails Framework)
+* GORM milestone releases with Groovy 3 support https://twitter.com/grailsframework/status/1252719156329357312[tweet by Grails Framework]
 * https://adtmag.com/articles/2020/02/25/apache-groovy-gets-new-parser.aspx?m=1[Apache's Groovy Gets a New Parser] article by John K. Waters in ADTMag
 * https://objectcomputing.com/news/2020/04/16/grails-and-micronaut-product-teams-announce-expansion-leader[Grails and Micronaut product teams announce expansion of leadership]
 * https://medium.com/@ruuben/managing-jwt-auth-with-micronaut-v2-part-3-5fd265a170b[Managing JWT Auth with Micronaut v2 (Part 3)] Third part of a trilogy of posts on Micronaut v2
