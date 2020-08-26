@@ -7,7 +7,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 == Releases
 
 * Groovy 3.0.5 and 2.5.13 released (Jul 19). https://groovy.apache.org/download.html[downloads page]
-* Grails 4.0.4 https://github.com/grails/grails-core/releases/tag/v4.0.3[tag page for release]
+* Grails 4.0.4 https://github.com/grails/grails-core/releases/tag/v4.0.4[tag page for release]
 * Grails 4.1.0.M1 https://twitter.com/grailsframework/status/1263596342632316929/[release Twitter announcement] including Groovy 3 and Micronaut 2
 * Gradle 6.6 https://gradle.org/install/[installation page]
 * Micronaut 2.0.1 released https://micronaut.io/blog/2020-06-26-announcing-micronaut-20.html[Object Computing announcement]
