@@ -40,7 +40,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 
 == Conferences
 
-* https://mailchi.mp/05f9e4487d7a/gr8conf-friday-bar-spock-6803786[GR8Conf Friday Bar] "Meet online to cheer, chat, and have fun with folks from the Groovy cummunity"
+* https://mailchi.mp/05f9e4487d7a/gr8conf-friday-bar-spock-6803786[GR8Conf Friday Bar] "Meet online to cheer, chat, and have fun with folks from the Groovy community"
 
 == Sponsor at Open Collective
 
