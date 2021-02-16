@@ -10,7 +10,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * https://twitter.com/keeganwitt/status/1334720984348323847[Groovy Windows installers]. Tweet by Keegan Witt with links to the Windows installers.
 * Grails 4.0.7: https://github.com/grails/grails-core/releases/tag/v4.0.7[tag page for release]
 * Grails 5.0.0.M1: https://github.com/grails/grails-core/releases/tag/v5.0.0.M1[tag page for release]
-  ** Probably a good time to talk about the service end for JCenter and Bintray, used so heavily by Grails plugins
+  ** Probably a good time to talk about https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/[the service end for JCenter and Bintray], used so heavily by Grails plugins. Let's grill Baruch on that!
 * Gradle 6.8.2 released Feb 5, 2021: https://docs.gradle.org/6.8.2/release-notes.html[release notes]
 * Gradle 7.0 milestone: https://docs.gradle.org/7.0-milestone-1/release-notes.html[release notes]. Gradle 7.0 will have support for Apple Silicon.
 * Micronaut 2.3.2 released Jan 2021: https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.3.2[tag page for release notes]
