@@ -17,6 +17,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * GMavenPlus 1.11.1: https://github.com/groovy/GMavenPlus/releases/tag/1.11.1[release page at GitHub]
 * Spock 2.0-M4: http://spockframework.org/spock/docs/2.0-M4/release_notes.html#_2_0_m4_2020_11_01[release notes], released 2020-11-01.
 * CodeNarc 2.0.0: https://github.com/CodeNarc/CodeNarc/blob/master/CHANGELOG.md[release notes] released Oct 2020, version 2.1.0 on the way.
+* gradle-nexus-publish-plugin 1.0.0: https://github.com/gradle-nexus/publish-plugin/[project home page] released 2020-02-15 - a brand new comprehensive plugin for releasing to Maven Central
 
 == Blogs, Tweets, Videos and other community news
 
