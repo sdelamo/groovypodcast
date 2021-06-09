@@ -6,17 +6,26 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 
 == Releases
 
-* Spock 2.0: https://spockframework.org/spock/docs/2.0/all_in_one.html#_release_notes[release notes], released 2021-05-17.
-* 
+* Spock 2.0: https://spockframework.org/spock/docs/2.0/release_notes.html[release notes], released 2021-05-17.
+* Micronaut 3 M1: https://micronaut.io/2021/06/02/micronaut-3-m1-released/[Micronaut 3 M1 release]
+* Grails 4.0.10: https://github.com/grails/grails-core/releases[release notes]
+* Groovy 3.0.8: http://groovy-lang.org/changelogs/changelog-3.0.8.html[changelog for Groovy 3.0.8]
+* Gradle 7.0.2: https://docs.gradle.org/7.0.2/release-notes.html[release notes]
 
 == Blogs, Tweets, Videos and other community news
 
-* 
+* https://objectcomputing.com/news/2020/10/26/new-grails-foundation-announced[Grails Foundation announced]
+* https://grails.org/blog/2021-03-22-meet-the-new-mascot.html[Grails mascot announced]
+* Android Groovy Shell, https://tambapps.github.io/groovy-shell-user-manual/[user manual]. Adapted GroovySh to Android.
+* Get support as part of Selenium page generator in IntelliJ IDEA 2021.1, tweet at https://twitter.com/GebFramework/status/1382776811101286405[tweet about Geb in IntelliJ]
+* Tutorial on Spock in IntelliJ by Trisha Gee, https://blog.jetbrains.com/idea/2021/01/tutorial-spock-part-1-getting-started/[Spock Tutorial]. Note https://www.youtube.com/watch?v=i5Qu3qYOfsM[full video tutorial on YouTube]
+* State of the Micronaut, https://micronaut.io/2020/07/02/state-of-the-micronaut/[micronaut blog post] by Jeff Brown
+* https://objectcomputing.com/services/training/catalog/grails/data-science-with-groovy[Data Science with Apache Groovy], June 28 to June 30, 3 day training course by Paul King
 
 
 == Conferences
 
-* 
+* https://www.apachecon.com/[ApacheCon @Home 2021], September 21 - 23, 2021
 
 == Sponsor at Open Collective
 
