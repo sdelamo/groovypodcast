@@ -1,0 +1,41 @@
+== Show notes for Episode 82 (S05E02)
+
+It's Thursday, June 10, 2021, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT and Sergio del Amo Caballero (https://twitter.com/sdelamo[@sdelamo]) in ... Spain.
+
+As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* Spock 2.0: https://spockframework.org/spock/docs/2.0/all_in_one.html#_release_notes[release notes], released 2021-05-17.
+* 
+
+== Blogs, Tweets, Videos and other community news
+
+* 
+
+
+== Conferences
+
+* 
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+* YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe is you haven't already :-)]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
+* Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
+* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
