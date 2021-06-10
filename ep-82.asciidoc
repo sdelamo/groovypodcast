@@ -21,7 +21,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * Tutorial on Spock in IntelliJ by Trisha Gee, https://blog.jetbrains.com/idea/2021/01/tutorial-spock-part-1-getting-started/[Spock Tutorial]. Note https://www.youtube.com/watch?v=i5Qu3qYOfsM[full video tutorial on YouTube]
 * State of the Micronaut, https://micronaut.io/2020/07/02/state-of-the-micronaut/[micronaut blog post] by Jeff Brown
 * https://objectcomputing.com/services/training/catalog/grails/data-science-with-groovy[Data Science with Apache Groovy], June 28 to June 30, 3 day training course by Paul King
-
+* gradle-nexus-publish-plugin 1.0.0: https://github.com/gradle-nexus/publish-plugin/[project home page] released 2020-02-15 - a brand new comprehensive plugin for releasing to Maven Central
 
 == Conferences
 
