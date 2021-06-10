@@ -23,6 +23,8 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * https://objectcomputing.com/services/training/catalog/grails/data-science-with-groovy[Data Science with Apache Groovy], June 28 to June 30, 3 day training course by Paul King
 * gradle-nexus-publish-plugin 1.0.0: https://github.com/gradle-nexus/publish-plugin/[project home page] released 2020-02-15 - a brand new comprehensive plugin for releasing to Maven Central, from Marcin Zajączkowski
 
+* https://pragprog.com/titles/kkmanage/help-your-boss-help-you/[Help Your Boss Help You], new book by Ken Kousen about how to manage your manager to get what you want in your career
+
 == Conferences
 
 * https://www.apachecon.com/[ApacheCon @Home 2021], September 21 - 23, 2021
