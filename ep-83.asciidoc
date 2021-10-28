@@ -1,6 +1,6 @@
 == Show notes for Episode 83 (S05E03)
 
-It's Thursday, October 28, 2021, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT and Paul King (https://twitter.com/paulk_asert[@paulk_asert]) in Brisbane, Australia.
+It's Thursday, October 28, 2021, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT and Paul King (https://twitter.com/paulk_asert[@paulk_asert]) in Brisbane, Australia where it's Friday October 29.
 
 As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
 
@@ -8,9 +8,21 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 
 * https://grails.org/blog/2021-10-11-grails-5-ga.html[Grails 5.0.0 release Announcement]
 * https://github.com/groovy/GMavenPlus/releases/tag/1.13.0[GMavenPlus plugin for Groovy]
-* https://t.co/zQO17XzAWo?amp=1[Micronaut 3 GA release]
+* https://t.co/zQO17XzAWo?amp=1[Micronaut 3 GA release] (3.1.3 was just released)
 * https://t.co/GX1KDhJcdR?amp=1[Gradle 7.3 RC3] with full support for Java 17
 * https://spockframework.org/spock/docs/2.0/release_notes.html[Spock 2.0 release], from 2021-05-17
+
+== Groovy 4 status
+* 4.0.0-beta-1 released just over a month ago
+* 4.0.0-beta-2 release soon
+* RCs soon after that
+* Still targetting end of year (or soon after) for final
+* Highlights
+  ** Language features: Records, Sealed classes, Switch expressions, Type annotations, Improved Ranges
+  ** Library improvements: Language integrated query (think LINQ/JOOQ), TOML support, JavaShell, Contracts
+  ** GDK enhancements, built-in macros/type checkers
+  ** Full JDK 17/18 support
+  ** Consolidation & structuring: maven coords, no split packaging, indy-only, parrot-only
 
 == Blogs, Tweets, Videos and other community news
 
