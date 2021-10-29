@@ -18,13 +18,14 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * 4.0.0-beta-1 released just over a month ago
 * 4.0.0-beta-2 release soon
 * RCs soon after that
-* Still targetting end of year (or soon after) for final
+* Still targetting end of year (or soon after) for final, it will depend on feedback
 * Highlights
   ** Language features: Records, Sealed classes, Switch expressions, Type annotations, Improved Ranges
   ** Library improvements: Language integrated query (think LINQ/JOOQ), TOML support, JavaShell, Contracts
   ** GDK enhancements, built-in macros/type checkers
   ** Full JDK 17/18 support
   ** Consolidation & structuring: maven coords, no split packaging, indy-only, parrot-only
+* Kudos to https://github.com/eric-milles[Eric] and https://github.com/danielsun1106[Daniel] for all their work on Groovy 3 & 4
 
 == Blogs, Tweets, Videos and other community news
 
