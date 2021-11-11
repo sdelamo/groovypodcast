@@ -10,7 +10,15 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.1.3[Micronaut 3.1.3 release notes]
 * https://docs.gradle.org/7.3/release-notes.html[Gradle 7.3] released with full support for Java 17
 
-== Grails and Micronaut News and Links
+== Micronaut Links
+
+* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
+* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
+  ** https://micronautpodcast.com/001.html[Integration with GraalVM]
+  ** https://micronautpodcast.com/002.html[Semantic Versioning]
+* https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
+
+== Grails Links
 
 * https://grails.org/index.html[Grails Home Page]
 * https://guides.grails.org/index.html[Grails Guides]
@@ -29,15 +37,10 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
   ** Plugin Portal plugin metadata hosted on Github
 * https://grails.org/foundation/index.html[Grails Foundation]
 * https://grails.org/foundation/minutes/index.html[Grails Foundation Minutes]
-* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
-* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
-  ** https://micronautpodcast.com/001.html[Integration with GraalVM]
-  ** https://micronautpodcast.com/002.html[Semantic Versioning]
-* https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
 
 == Conferences
 
-* Gr8conf 2022, Copenhagen, Denmark (dates TBD)
+* https://gr8conf.eu[Gr8conf] 2022, Copenhagen, Denmark (dates TBD)
 
 == Sponsor at Open Collective
 
