@@ -1,0 +1,61 @@
+== Show notes for Episode 84 (S05E04)
+
+It's Thursday, November 11, 2021, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT, Sergio del Amo Caballero (https://twitter.com/sdelamo[@sdelamo]) in Guadalajara, Spain (not the one in Mexico), and Puneet Behl (https://twitter.com/puneetbhl[@puneetbhl]) in Faridabad, India (near New Delhi).
+
+As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* https://github.com/grails/grails-core/releases/tag/v5.0.1[Grails 5.0.1 release notes]
+* https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.1.3[Micronaut 3.1.3 release notes]
+* https://docs.gradle.org/7.3/release-notes.html[Gradle 7.3] released with full support for Java 17
+
+== Grails and Micronaut News and Links
+
+* https://grails.org/index.html[Grails Home Page]
+* https://guides.grails.org/index.html[Grails Guides]
+* https://slack.grails.org/[Grails Slack Channel]
+* https://docs.grails.org/5.0.1/guide/introduction.html#whatsNew[What’s new in Grails 5]
+* Grails 5 release now uses
+  ** https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.5-Release-Notes[Spring Boot 2.5]
+  ** https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-5.x#upgrading-to-version-53[Spring Framework 5.3]
+  ** https://docs.gradle.org/7.0/release-notes.html[Gradle 7.2]
+  ** https://groovy-lang.org/releasenotes/groovy-3.0.html[Groovy 3.0.9]
+  ** https://spockframework.org/spock/docs/2.0/release_notes.html[Spock 2.0]
+  ** Updated Grails Database Migration 
+  ** Updated Grails Spring Security Core
+  ** Updated Grails and Micronaut Integration 
+  ** Grails Publishing to Maven Central
+  ** Plugin Portal plugin metadata hosted on Github
+* https://grails.org/foundation/index.html[Grails Foundation]
+* https://grails.org/foundation/minutes/index.html[Grails Foundation Minutes]
+* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
+* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
+  ** https://micronautpodcast.com/001.html[Integration with GraalVM]
+  ** https://micronautpodcast.com/002.html[Semantic Versioning]
+* https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
+
+== Conferences
+
+* Gr8conf 2022, Copenhagen, Denmark (dates TBD)
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+* YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe is you haven't already :-)]
+
+## Brought to you by
+* Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
+* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
