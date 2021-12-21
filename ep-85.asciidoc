@@ -1,0 +1,75 @@
+== Show notes for Episode 85 (S05E05)
+
+It's Wednesday, December 22, 2021, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT, Sergio del Amo Caballero (https://twitter.com/sdelamo[@sdelamo]) in Guadalajara, Spain (not the one in Mexico), and Guillaume Laforge (https://twitter.com/puneetbhl[@glaforge]) in Paris, France.
+
+As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* https://github.com/grails/grails-core/releases/tag/v5.1.0[Grails 5.1 released] with bug fixes and Gradle 7.2 compatibility changes, as well as dependency updates.
+* http://groovy-lang.org/changelogs/changelog-4.0.0-rc-1.html[Groovy 4.0.0-rc-1 released], link is to changelog. See https://groovy.apache.org/download.html[the regular download page] for access.
+* https://micronaut.io/2021/11/23/micronaut-framework-3-2-released/[Micronaut 3.2 released] blog post.
+* https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.2.3[Micronaut 3.2.3] release notes.
+* https://docs.gradle.org/7.3.2/release-notes.html[Gradle 7.3.2] released with full support for Java 17, declarative test suite API for JVM projects, and updated Scala plugin to support Scala 3.
+
+== Micronaut Links
+
+* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
+* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
+  ** https://micronautpodcast.com/003.html[Schema Migration Tools - Flyway and Liquibase]
+  ** https://micronautpodcast.com/004.html[Micronaut Data]
+  ** https://micronautpodcast.com/005.html[Micronaut AOT]
+* https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
+* https://micronaut.io/2021/12/20/micronaut-aot-build-time-optimizations-for-micronaut-applications/[Micronaut AOT]. Build-time optimizations for Micronaut applications.
+  ** https://medium.com/graalvm/introducing-micronaut-aot-build-time-optimizations-for-your-micronaut-applications-68b8f1302c5[Introductory blog post by Cédric Champeau]
+* https://github.com/GoodforGod/micronaut-management-openapi[Micronaut Management OpenAPI] GitHub repository. Library provides cloud-friendly OpenAPI/Swagger-UI/Rapidoc management endpoints.
+* https://www.madridgug.com/2021/11/micronaut-aop-a-love-story.html[Micronaut + AOP: A Love Story], presentation at Madrid GUG by James Kleeh.
+
+== Grails Links
+
+* https://grails.org/index.html[Grails Home Page]
+* https://guides.grails.org/index.html[Grails Guides]
+* https://slack.grails.org/[Grails Slack Channel]
+* https://grails.org/blog/2021-11-23-db-migration-plugin-update.html[Grails database migration 4.0.0-rc1 released]
+* https://docs.grails.org/5.0.1/guide/introduction.html#whatsNew[What’s new in Grails 5]
+* https://www.madridgug.com/2021/12/whats-new-in-grails-5.html[Madrid Groovy Users Group] presentation by Puneet Behl, "What's New in Grails 5", recording and slides available.
+* https://grails.org/blog/2021-12-14-log4j2-cve.html[Grails and Log4J2 vulnerability]. TLDR: Grails 3+ uses Logback, so apps unaffected unless they specifically use log4J2.
+* Jason Schindler (OCI Partner and Groovy/Grails/Micronaut Team Manager) and Paul King (Groovy Project Development Lead at OCI) both join the Grails Foundation Technology Advisory Board.
+
+== Special Note
+
+As a community, we mourn the premature passing of Stéphane Maldini.
+
+* https://www.gofundme.com/f/mcmme-example[Stéphane Maldini Family Fund]
+* https://twitter.com/smaldini?lang=en[smaldini] on Twitter
+* https://github.com/smaldini[smaldini] on GitHub
+* https://spring.io/blog/2019/03/01/reactor-project-lead-st-phane-maldini[Reactor project lead announcement]
+* https://www.crunchbase.com/person/st%C3%A9phane-maldini[bio at Crunchbase]
+* https://springone.io/2018/speakers/stephane-maldini[bio at SpringOne]
+* https://nofluffjuststuff.com/conference/speaker/stephane_maldini[bio at No Fluff, Just Stuff]
+* https://www.slideshare.net/Pivotal/the-value-of-reactive-design-stphane-maldini[The Value of Reactive Design] presentation on SlideShare
+* https://www.slideshare.net/StphaneMaldini/reactor-30-a-reactive-foundation-for-java-8-and-spring[Reactor 3.0, A reactive foundation for Java 8 and Spring] presentation on SlideShare
+
+== Conferences
+
+* https://gr8conf.eu[Gr8conf] 2022, Copenhagen, Denmark (dates TBD)
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+* YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe if you haven't already :-)]
+
+## Brought to you by
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
+* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
