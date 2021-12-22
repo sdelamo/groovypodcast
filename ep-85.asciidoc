@@ -4,6 +4,11 @@ It's Wednesday, December 22, 2021, with your hosts Ken Kousen (https://twitter.c
 
 As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
 
+
+=== Groovy
+
+- [What's next for the Groovy web console?](https://www.youtube.com/watch?v=45woDLlJ1zg)
+
 == Releases
 
 * https://github.com/grails/grails-core/releases/tag/v5.1.0[Grails 5.1 released] with bug fixes and Gradle 7.2 compatibility changes, as well as dependency updates.
