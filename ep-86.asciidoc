@@ -1,0 +1,81 @@
+== Show notes for Episode 86 (S06E01)
+
+It's Wednesday, February 2, 2022, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT, and Sergio del Amo Caballero (https://twitter.com/sdelamo[@sdelamo]) in Guadalajara, Spain (not the one in Mexico).
+
+As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* http://groovy-lang.org/releasenotes/groovy-4.0.html[Groovy 4.0 released] with lots of changes and improvements. New Maven coordinates `org.apache.groovy` replaces `org.codehaus.groovy`, some classes moved packages to accommodate JPMS, and more:
+  ** Switch expressions (uses arrow notation and no fallthrough, but not exhaustive
+  ** Sealed classes, interfaces, and traits
+  ** Native records for JDK16+
+  ** Built-in macro methods
+  ** Incubating changes like Groovy Contracts, JavaShell, and `@POJO`
+  ** GINQ: Groovy-Integrated Query language, can query collections in a SQL-like style
+  ** Enhanced ranges, like `3<..<15`
+* https://github.com/groovy/groovy-eclipse/wiki/4.4.0-Release-Notes[Groovy Eclipse 4.4.0], with support for Groovy 4 and Java 17.
+* https://github.com/grails/grails-core/releases/tag/v5.1.2[Grails 5.1.2], with dependecies upgrades.
+* https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.3.0[Micronaut 3.3.0] release notes.
+* https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/[Micronaut 3.3.0 announcement]
+  ** GraalVM 22.0.0
+  ** Micronaut serialization module
+  ** Email module
+  ** Many other bug fixes and improvements
+
+== People
+
+* https://twitter.com/Java_Champions/status/1488256368851095554[Stéphane Maldini] posthumously recognized as a Java Champion.
+* https://twitter.com/ilopmar/status/1488078662733860869[Iván López] (@ilopmar) moving to VMware.
+* https://twitter.com/ApacheGroovy/status/1479756163105312775[Shoutout to Christoph Frick] for the gold badge for #groovy on StackOverflow.
+* https://twitter.com/grailsframework/status/1487176009648676869[Søren Berg Glasius] joins the Technical Advisory Committee of the Grails Foundation.
+* https://twitter.com/grailsframework/status/1487177076138549250[Ken Kousen] joins the Technical Advisory Committee of the Grails Foundation.
+* https://twitter.com/grailsframework/status/1480555044013498371[Tabitha Willan] joins the Technical Advisory Committee of the Grails Foundation.
+* https://twitter.com/therealdanvega/status/1485647033633550338[Dan Vega] joins VMware.
+
+
+== Blog Posts and Others
+
+* https://twitter.com/SolidSoftBlog/status/1487807926429495299[tweet by Marcin Zajączkowski] about getting Spock to run on Groovy 4.0 while waiting for a dedicated version. Includes a discussion of the awesomely-named property `spock.iKnowWhatImDoing.disableGroovyVersionCheck=true`
+* https://www.zsiegel.com/2022/01/25/Micronaut-JDBC-R2DBC-Flyway-multiple-schemas[blog post by Zac Siegel] entitled, "Using Micronaut Data, JDBC, R2DBC, TestContainers, and Flyway with multiple schemas"
+* https://melix.github.io/blog/2022/01/understanding-provider-api.html[blog post by Cédric Champeau] entitled, "Understanding Gradle plugins: the provider API"
+* https://www.youtube.com/watch?v=3ENintpjAIY[video by Ken Kousen] entitled, "Functional Programming in Java, Groovy, and Kotlin," delivered at the online Java Champions conference.
+* https://www.youtube.com/watch?v=loVvKiuo6Hc&ab_channel=JAVAPRO[video by Graeme Rocher] entitled, "What's New In Micronaut 3.0," presentation at JCON.
+
+
+== Micronaut Links
+
+* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
+* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
+  ** https://micronautpodcast.com/008.html[Micronaut Serialization] with Graeme Rocher.
+* https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
+
+== Grails Links
+
+* https://grails.org/index.html[Grails Home Page]
+* https://guides.grails.org/index.html[Grails Guides]
+* https://slack.grails.org/[Grails Slack Channel]
+
+== Conferences
+
+* https://gr8conf.eu[Gr8conf] 2022, Copenhagen, Denmark (dates TBD, Søren promised on Twitter that it would happen in person, so that's as firm a commitment as any.)
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting
+* http://groovycalamari.com/[The Groovy Calamari] for tons of news as well!
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+* YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe if you haven't already :-)]
+
+## Brought to you by
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
+* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
