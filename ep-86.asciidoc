@@ -25,6 +25,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 
 == People
 
+* https://www.linkedin.com/in/timyates/?originalSubdomain=uk[Tim Yates] joined the Micronaut team at OCI.
 * https://twitter.com/Java_Champions/status/1488256368851095554[Stéphane Maldini] posthumously recognized as a Java Champion.
 * https://twitter.com/ilopmar/status/1488078662733860869[Iván López] (@ilopmar) moving to VMware.
 * https://twitter.com/ApacheGroovy/status/1479756163105312775[Shoutout to Christoph Frick] for the gold badge for #groovy on StackOverflow.
