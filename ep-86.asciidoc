@@ -16,6 +16,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
   ** Enhanced ranges, like `3<..<15`
 * https://github.com/groovy/groovy-eclipse/wiki/4.4.0-Release-Notes[Groovy Eclipse 4.4.0], with support for Groovy 4 and Java 17.
 * https://github.com/grails/grails-core/releases/tag/v5.1.2[Grails 5.1.2], with dependecies upgrades.
+* https://github.com/grails/grails-spring-security-core/releases/tag/v5.0.0-RC1[Grails Spring Security Core 5.0.0-RC1] - Update spring security to v5.6.1
 * https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.3.0[Micronaut 3.3.0] release notes.
 * https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/[Micronaut 3.3.0 announcement]
   ** GraalVM 22.0.0
