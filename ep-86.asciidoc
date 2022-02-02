@@ -4,6 +4,12 @@ It's Wednesday, February 2, 2022, with your hosts Ken Kousen (https://twitter.co
 
 As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
 
+== Training
+
+* https://objectcomputing.com/services/training/catalog/grails/grails-security-workshop[Introduction to Grails Security] 
+* https://objectcomputing.com/services/training/catalog/grails/micronaut-and-grails[Using Micronaut Features in a Grails application]
+
+
 == Releases
 
 * http://groovy-lang.org/releasenotes/groovy-4.0.html[Groovy 4.0 released] with lots of changes and improvements. New Maven coordinates `org.apache.groovy` replaces `org.codehaus.groovy`, some classes moved packages to accommodate JPMS, and more:
