@@ -19,6 +19,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * https://github.com/grails/grails-spring-security-core/releases/tag/v5.0.0-RC1[Grails Spring Security Core 5.0.0-RC1] - Update spring security to v5.6.1
 * https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.3.0[Micronaut 3.3.0] release notes.
 * https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/[Micronaut 3.3.0 announcement]
+* https://github.com/micronaut-advocacy/micronaut-live-newsletter[Micronaut Live sample application]
   ** GraalVM 22.0.0
   ** Micronaut serialization module
   ** Email module
