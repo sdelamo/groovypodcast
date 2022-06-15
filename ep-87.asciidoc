@@ -1,0 +1,78 @@
+== Show notes for Episode 87 (S06E02)
+
+It's Thursday, June 15, 2022, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT, and Sergio del Amo Caballero (https://twitter.com/sdelamo[@sdelamo]) in Guadalajara, Spain (not the one in Mexico).
+
+As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* https://groovy.apache.org/download.html[Groovy 4.0.3 released] with 40 fixes and improvements. Lots of changes and improvements in Groovy 4, including new Maven coordinates `org.apache.groovy` replacing `org.codehaus.groovy`, some classes moved packages to accommodate JPMS, and more:
+  ** Switch expressions (uses arrow notation and no fallthrough, but not exhaustive
+  ** Sealed classes, interfaces, and traits
+  ** Native records for JDK16+
+  ** Built-in macro methods
+  ** Incubating changes like Groovy Contracts, JavaShell, and `@POJO`
+  ** GINQ: Groovy-Integrated Query language, can query collections in a SQL-like style
+  ** Enhanced ranges, like `3<..<15`
+* https://groovy.apache.org/download.html[same link for Groovy 2.5.17 and Groovy 3.0.11] bug fix versions.
+* https://spockframework.org/spock/docs/2.1/release_notes.html[Spock 2.1 released], with support for Groovy 4 and a new logo. Note that since 2.0, Spock uses a test engine based on the JUnit Platform (JUnit 5).
+* https://micronaut.io/2022/06/03/micronaut-framework-3-5-1-released/[Micronaut 3.5.1 released]
+
+
+== Blog Posts and Others
+
+* https://blogs.apache.org/groovy/entry/gpars-meets-virtual-threads[GPars meets Virtual Threads]. Blog post by Paul King that uses the GPars library and a Java 19 beta to run with virtual threads.
+* https://joxebus.github.io/blog/techblog/2022/06/07/apache-groovy-and-data-types.html[Apache Groovy and data types], blog post by Omar Bautista
+* https://keyholesoftware.com/2022/06/02/using-groovy-4-ginq-for-the-win/[GINQ for the Win], blog post by Rik Scarborough, which includes examples that use GINQ.
+* https://blog.jetbrains.com/idea/2022/06/intellij-idea-2022-2-eap-3/[IntelliJ IDEA 2022.2 EAP 3] support for GINQ in Groovy 4
+* https://www.youtube.com/watch?v=pjS4aSPTTO4[Introduction to Groovy], YouTube webinar by Joe Aultman and Kevin Whalen, focusing on planning implementation and Oracle EPM.
+* https://www.madridgug.com/2022/04/groovy-4-update.html[Paul King talk about Groovy 4 at MadridGUG], recording available -- https://speakerdeck.com/paulk/groovy-roadmap/[Groovy 4 update slides] on SpeakerDeck.
+* https://www.youtube.com/watch?v=fTxFa2Sb4ts&list=PLKaiHc24qCTQqGfb8CheoqBygptzSrTPo[These 10 New Features Make Groovy 4.0 AWESOME], YouTube video by Szymon Stepniak (part of an entire Groovy tutorial playlist)
+* https://twitter.com/mittie/status/1509218002985701378[GitHub Copilot supports Groovy], tweet by Dierk König. (Apparently Copilot even works with Frege).
+* https://github.com/jameskleeh/groovy-excel-builder[Groovy Excel builder], GitHub project tweeted about by James Kleeh
+* https://grails.org/blog/2022-04-01-jetbrains-new-tools-and-infrastructure-partner.html[JetBrains joins Grails Foundation] as a Tools and Infrastructure Partner.
+* https://www.jetbrains.com/idea/guide/tutorials/writing-tests-with-spock/[Writing Tests with Spock], updates tutorial on Spock in IntelliJ IDEA by Trisha Gee.
+* Graeme Rocher giving Micronaut talks at Devoxx Poland next week (June 22 - 24, 2022).
+* Some guy named Sergio giving Micronaut talk at JBCNConf in July.
+* https://www.youtube.com/watch?v=2a7gNJW32jE[How the Micronaut Team practices DPE using GE], YouTube video by Cedric Champeau (and Sergio) talking about developer productivity engineering and Gradle Enterprise, as used by the Micronaut team.
+
+== Micronaut Links
+
+* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
+* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
+  ** https://micronautpodcast.com/008.html[Micronaut Serialization] with Graeme Rocher.
+* https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
+* Micronaut Guides:
+  ** https://guides.micronaut.io/latest/micronaut-websocket.html[Expose a WebSocket Server in a Micronaut Application]
+  ** https://t.co/eZIOmIP5Tj[Using REST-assured to test a Micronaut application]
+  ** https://t.co/9iV7uz6vWn[Localize your Micronaut application]
+
+== Grails Links
+
+* https://grails.org/index.html[Grails Home Page]
+* https://guides.grails.org/index.html[Grails Guides]
+* https://slack.grails.org/[Grails Slack Channel]
+
+== Conferences
+
+* https://jdk.io[Gr8conf] Nov 16 - 17, 2022, Copenhagen, Denmark, jointly with JDKiO. https://cfp.gr8conf.org/login/auth[Call for papers] ends Aug 31.
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting.
+* http://groovycalamari.com/[The Groovy Calamari], which would be helpful if it ever released another issue.
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+* YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe if you haven't already :-)]
+
+## Brought to you by
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
+* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
