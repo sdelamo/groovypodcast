@@ -6,7 +6,7 @@ As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] 
 
 == Conferences 
 
-- [GR8Conf EU](https://gr8conf.eu) Novemeber 16 & 17
+* https://gr8conf.eu[GR8Conf EU] Novemeber 16 & 17
 
 == Releases
 
