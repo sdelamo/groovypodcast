@@ -66,6 +66,10 @@ As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] 
 * https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
 * https://opencollective.com/sdkman[SDKMAN!]
 
+== Books
+
+* https://pragprog.com/titles/mockito/mockito-made-clear/[Mockito Made Clear]
+
 == Thank you
 
 * https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting.
