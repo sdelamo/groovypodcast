@@ -4,6 +4,10 @@ It's Thursday, June 15, 2022, with your hosts Ken Kousen (https://twitter.com/ke
 
 As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
 
+== Conferences 
+
+* https://gr8conf.eu[GR8Conf EU] Novemeber 16 & 17
+
 == Releases
 
 * https://groovy.apache.org/download.html[Groovy 4.0.3 released] with 40 fixes and improvements. Lots of changes and improvements in Groovy 4, including new Maven coordinates `org.apache.groovy` replacing `org.codehaus.groovy`, some classes moved packages to accommodate JPMS, and more:
