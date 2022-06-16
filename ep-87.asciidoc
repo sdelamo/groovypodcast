@@ -42,11 +42,12 @@ As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] 
 
 == Micronaut Links
 
+* https://micronaut.io/blog/[Micronaut Blog]
 * https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
 * https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
   ** https://micronautpodcast.com/008.html[Micronaut Serialization] with Graeme Rocher.
 * https://www.twitch.tv/micronautfw[Micronaut Twitch channel], new live stream every Tuesday and Thursday
-* Micronaut Guides:
+* https://guides.micronaut.io[Micronaut Guides]:
   ** https://guides.micronaut.io/latest/micronaut-websocket.html[Expose a WebSocket Server in a Micronaut Application]
   ** https://t.co/eZIOmIP5Tj[Using REST-assured to test a Micronaut application]
   ** https://t.co/9iV7uz6vWn[Localize your Micronaut application]
